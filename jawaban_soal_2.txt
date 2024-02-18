@@ -1,0 +1,2 @@
+git rebase adalah salah satu perintah dalam Git yang digunakan untuk memindahkan atau mengubah urutan commit dalam sejarah pengembangan. 
+Tujuan umum dari git rebase adalah untuk menjaga sejarah commit tetap bersih, terorganisir, dan memudahkan untuk dipahami.

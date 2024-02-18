@@ -1,0 +1,9 @@
+Merge conflict terjadi ketika terdapat perubahan yang berbeda di bagian yang sama pada sebuah file,
+hal ini terjadi ketika melakukan merge antara 1 branch dengan branch lain dan sistem tidak dapat memutuskan
+karena terdapat perubahan yang perbedaan.
+
+Cara menanggulanginya:
+1. Periksa file yang terlibat
+2. Edit file secara manual
+3. Tandai konflik telah diselesaikan 
+4. Merge dan buat commit baru
