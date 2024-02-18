@@ -1,0 +1,2 @@
+Fork membuat salinan independen dari repository orang lain ke akun sendiri
+Pull menggabungkan hasil perubahan dengan repository utama
